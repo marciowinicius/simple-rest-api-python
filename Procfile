@@ -1,0 +1,1 @@
+web: gunicorn fixarshoppingAPI.wsgi --log-file -
